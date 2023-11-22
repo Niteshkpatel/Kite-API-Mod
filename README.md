@@ -72,6 +72,8 @@ Contributions to this module are welcome. Please ensure you follow the coding co
 
 ## Contact
 
+
 In case of any queries, Contact me @ https://www.linkedin.com/in/toniteshpatel/
+
 ---
 
